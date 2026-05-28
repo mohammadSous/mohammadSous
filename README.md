@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohammad!
 
-<!--
-**mohammadSous/mohammadSous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an AI and Data Science student at ZUJ.
 
-Here are some ideas to get you started:
+## What I know
+- Python
+- Object-Oriented Programming
+- Pandas, NumPy, Matplotlib
+- scikit-learn
+- SQL
+- PySpark
+- Machine Learning fundamentals
+- Data analysis
+- Azure AI Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- Rebuilding my airport SQL project into a full data project
+- Learning FastAPI for APIs
+- Building dashboards with Streamlit
+
+## Future project goals
+- Airport Operations Intelligence System
+- Machine Learning prediction API
+- Data analysis dashboards
+- Clean, and documented GitHub projects
