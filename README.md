@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad!
 
-## I'm an AI and Data Science student at ZUJ.
+## I'm an AI and Data Science student.
 
 ## What I know
 - Python
