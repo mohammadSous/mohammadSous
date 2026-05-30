@@ -2,13 +2,13 @@
 
 **AI & Data Science Student | Python Developer | Machine Learning Enthusiast**
 
-Welcome to my GitHub! I'm passionate about leveraging data and AI to solve real-world problems. I love building robust data pipelines, developing machine learning models, and creating insightful dashboards.
+Welcome to my GitHub! I'm passionate about leveraging data and AI to solve real-world problems. I enjoy turning messy data into useful systems, whether that's SQL analytics, dashboards, APIs, or machine learning models.
 
 ---
 
 ## 🎯 About Me
 
-I'm an AI and Data Science student dedicated to mastering the full spectrum of data engineering and machine learning. I thrive on transforming raw data into actionable insights and building scalable solutions that make an impact.
+I'm an AI and Data Science student dedicated to mastering the full spectrum of data engineering and machine learning. I thrive on transforming raw data into actionable insights and building scalable solutions that make an impact!
 
 ---
 
@@ -56,13 +56,6 @@ Transforming airport SQL data into a comprehensive data analytics project with m
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadSous&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadSous&layout=compact&theme=tokyonight)
-
----
 
 ## 🎓 Goals & Vision
 
@@ -72,22 +65,12 @@ Transforming airport SQL data into a comprehensive data analytics project with m
 - 🤝 Contribute to open-source data science projects
 - 💡 Share knowledge and help others in the data science community
 
----
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on data science projects, discuss ML challenges, or just chat about the future of AI.
-
-- 💼 [LinkedIn](https://linkedin.com/in/mohammad-sous)
-- 🐦 [Twitter](https://twitter.com)
-- 📧 **Email:** Contact me for opportunities
-- 💻 **Portfolio:** [Your Website](https://yourwebsite.com)
 
 ---
 
 ## 🎯 My Philosophy
 
-> "In data, we trust. In code, we build. In AI, we innovate."
+>   Fundamentals are everything.
 
 ---
 
