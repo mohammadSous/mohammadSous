@@ -1,78 +1,18 @@
-# Hi there! 👋 I'm Mohammad
+# 💫 About Me:
+I am an AI & Data Science student. I have built a strong foundation in machine learning, statistics, programming, and data engineering, and I am currently focused on turning that knowledge into practical, portfolio-driven projects.<br><br>One of my recent projects is an Airport Operations Intelligence System, where I integrated SQL databases, data analytics, data visualization, dashboards, APIs, and machine learning into a complete end-to-end solution. Through projects like this, I aim to move beyond theory and gain hands-on experience with how real-world systems are designed, developed, and deployed.<br><br>My approach to learning is simple: master the fundamentals first, then apply them through increasingly challenging projects. My interests include machine learning, data science, analytics, backend development, and AI applications, with a strong focus on building industry-ready skills before graduation.<br><br>I enjoy understanding how things work at a deeper level, whether it's a machine learning pipeline, a software system, or a new technical skill. I am constantly looking for opportunities to learn, improve, and turn knowledge into practical experience.<br>
 
-**AI & Data Science Student | Python Developer | Machine Learning Enthusiast**
 
-Welcome to my GitHub! I'm passionate about leveraging data and AI to solve real-world problems. I enjoy turning messy data into useful systems, whether that's SQL analytics, dashboards, APIs, or machine learning models.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mohammadSous&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mohammadSous&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadSous&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🎯 About Me
-
-I'm an AI and Data Science student dedicated to mastering the full spectrum of data engineering and machine learning. I thrive on transforming raw data into actionable insights and building scalable solutions that make an impact!
-
----
-
-## 💼 Core Competencies
-
-**Programming & Development:**
-- 🐍 Python (Advanced)
-- 🏗️ Object-Oriented Programming (OOP)
-- 🔌 FastAPI (Currently Learning)
-- 📊 SQL
-
-**Data Science & ML:**
-- 🤖 Machine Learning Fundamentals
-- 📈 Data Analysis & Visualization
-- 🔢 Pandas, NumPy, Matplotlib
-- 🧠 scikit-learn
-- ☁️ PySpark (Distributed Computing)
-
-**Cloud & Certifications:**
-- ☁️ Azure AI Fundamentals
-
-**Data Visualization:**
-- 📊 Streamlit (Dashboard Development)
-- 📉 Matplotlib & Seaborn
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mohammadSous&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Current Projects
-
-### 🛫 [Airport Operations Intelligence System](https://github.com/mohammadSous)
-Transforming airport SQL data into a comprehensive data analytics project with machine learning predictions and interactive dashboards.
-
-- **Tech Stack:** Python, SQL, Pandas, scikit-learn, Streamlit
-- **Status:** In Development
-- **Focus:** Data pipeline optimization, predictive modeling, dashboard creation
-
----
-
-## 🌱 What I'm Learning
-
-- ✨ FastAPI for building high-performance APIs
-- 📊 Advanced dashboard development with Streamlit
-- 🎯 Production-ready ML model deployment
-- 🔄 Data pipeline optimization and ETL processes
-
----
-
-
-## 🎓 Goals & Vision
-
-- 🏢 Build production-grade data engineering solutions
-- 🤖 Develop impactful ML models for real-world applications
-- 📚 Create well-documented, reusable code and projects
-- 🤝 Contribute to open-source data science projects
-- 💡 Share knowledge and help others in the data science community
-
-
----
-
-## 🎯 My Philosophy
-
->   Fundamentals are everything.
-
----
-
-**Thanks for stopping by!** Feel free to explore my repositories, star projects you find interesting, and reach out for collaboration. Let's build something amazing together! 🚀
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
