@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad 👋
 
-AI & Data Science student at Al-Zaytoonah University of Jordan.
+AI & Data Science student.
 
 I'm interested in Machine Learning, Data Science, and building practical AI applications.
 
@@ -9,12 +9,13 @@ Currently learning Deep Learning while building projects with Python, SQL, FastA
 ## Tech Stack
 
 - Python
-- SQL (MySQL)
+- SQL (MySQL/PostgreSQL)
 - Pandas
 - NumPy
 - Scikit-learn
 - FastAPI
 - Streamlit
+- TensorFlow
 - Git & GitHub
 
 ## Currently Working On
