@@ -27,3 +27,4 @@ Currently learning Deep Learning while building projects with Python, SQL, FastA
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/mohammadsous/
+- GitHub: https://github.com/mohammadSous
