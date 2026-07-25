@@ -16,6 +16,7 @@ Currently learning Deep Learning while building projects with Python, SQL, FastA
 - FastAPI
 - Streamlit
 - TensorFlow
+- XGBoost
 - Git & GitHub
 
 ## Currently Working On
