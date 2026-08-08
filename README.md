@@ -22,7 +22,7 @@ Currently learning Deep Learning while building projects with Python, SQL, FastA
 ## Currently Working On
 
 - Machine Learning projects
-- Unsupervised Learning
+- JavaScript
 - Backend development with FastAPI
 
 ## Connect
