@@ -4,7 +4,7 @@ AI & Data Science student.
 
 I'm interested in Machine Learning, Data Science, and building practical AI applications.
 
-Currently learning Deep Learning while building projects with Python, SQL, FastAPI, and Streamlit.
+Currently learning JS, and building unsupervised learning projects.
 
 ## Tech Stack
 
