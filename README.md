@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad 👋
+# Hi, I'm Mohammad!
 
 AI & Data Science student.
 
