@@ -4,8 +4,6 @@ AI & Data Science student.
 
 I'm interested in Machine Learning, Data Science, and building practical AI applications.
 
-Currently learning JS, and deepening my PostgreSQL skills.
-
 ## Tech Stack
 
 - Python
@@ -25,9 +23,7 @@ Currently learning JS, and deepening my PostgreSQL skills.
 
 ## Currently Working On
 
-- Machine Learning projects
-- JavaScript
-- Backend development with FastAPI (JWT auth, Docker, testing, CI, deployment)
+- Exploring Artificial Neural Networks and applying what I learn through hands-on projects.
 
 ## Connect
 
